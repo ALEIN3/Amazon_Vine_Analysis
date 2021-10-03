@@ -48,7 +48,7 @@ I focused on the US reviews in Electronics.
 
 The analysis shows that 42% of the reviews in the Vine program were five-star reviews, whereas the percentage of the five-star reviews in the non-Vine reviews is only 46%. That means the reviews were close to reality, and there is no bias to give higher rate reviews for the Vine program.
 
-We can apply some statistical analysis one that dataset like studying the measures of spread to define how the values distribute it among star levels.
+We can apply some statistical analysis to that dataset, like studying the measures of spread to define how the values distributed among star levels.
 
 
 
